@@ -25,6 +25,10 @@ thar = Car("TH-2024S", '200 KM/Hr')
 thar.start_engine()
 thar.drive()
 
+ford = Car("FORD107", '350 KM/Hr')
+ford.start_engine()
+ford.drive()
+
 
 
 
